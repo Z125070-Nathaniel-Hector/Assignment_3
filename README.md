@@ -91,7 +91,9 @@ Save all necessary files in **part4** folder. Don’t forget that you need `inde
 
 ## Part 5: Create an Omikuji (Fortune-Telling) Program
 
-Omikuji (おみくじ) is a traditional Japanese fortune-telling practice often found at Shinto shrines and Buddhist temples. Visitors draw a random slip of paper that reveals their fortune, ranging from "Great Fortune" to "Bad Luck". In this exercise, you'll recreate the fun and excitement of Omikuji by building a simple JavaScript program that generates a random fortune for the user, just like the ones you might get at a shrine! Note that the design of your website is up to you!
+Omikuji (おみくじ) is a traditional Japanese fortune-telling practice often found at Shinto shrines and Buddhist temples. Visitors draw a random slip of paper that reveals their fortune, ranging from "Great Fortune" to "Bad Luck". In this exercise, you'll recreate the fun and excitement of Omikuji by building a simple JavaScript program that generates a random fortune for the user, just like the ones you might get at a shrine! 
+
+#### *Note that the design of your website is up to you!
 
 #### Requirements:
 1. Create an HTML file (`index.html`) that contains:
